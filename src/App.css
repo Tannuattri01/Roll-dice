@@ -91,7 +91,7 @@ button:focus-visible {
 .square{
   height: 350px;
   width: 350px;
-  
+  margin-left:30px
   display: inline-block;
   vertical-align: middle;
 
